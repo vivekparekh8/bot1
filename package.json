@@ -1,0 +1,24 @@
+{
+  "name": "bot1",
+  "version": "1.0.0",
+  "description": "Demo bot for http://m.me",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vivekparekh8/bot1.git"
+  },
+  "keywords": [
+    "Bots",
+    "Messenger",
+    "Context"
+  ],
+  "author": "Vivek Parekh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vivekparekh8/bot1/issues"
+  },
+  "homepage": "https://github.com/vivekparekh8/bot1#readme"
+}
